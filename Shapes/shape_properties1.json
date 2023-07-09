@@ -298,5 +298,15 @@
       "color": "yellow",
       "sides": "3"
     }
+  },
+  {
+    "name": "Yellow Triangle",
+    "description": "A yellow triangle NFT from the Shapes Collection",
+    "image": "yellow_triangle.png",
+    "attributes": {
+      "shape": "triangle",
+      "color": "yellow",
+      "sides": "3"
+    }
   }
 ]
